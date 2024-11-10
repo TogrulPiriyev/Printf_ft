@@ -1,0 +1,14 @@
+{
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.associations": {
+        "stdio.h": "c",
+        "ctype.h": "c",
+        "string.h": "c",
+        "libft.h": "c"
+    },
+
+}
